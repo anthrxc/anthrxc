@@ -3,8 +3,7 @@
 ## Welcome to my profile!
 
 # About me
-Professional dumbass, PhD in depression & anxiety
-oh and I find web development interesting and want to learn it
+Professional dumbass, PhD in depression & anxiety. Oh and I find web development interesting and would like to learn it.
 
 # Known languages
 TypeScript (JavaScript) & Python
