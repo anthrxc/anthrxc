@@ -9,4 +9,4 @@ Professional dumbass, PhD in depression & anxiety. Oh and I find web development
 TypeScript (JavaScript) & Python
 
 ## Current project
-Frederick, [JAR Developments](https://github.com/jar-developments/jar-developments)
+Open-source CLI password manager
