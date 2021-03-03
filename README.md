@@ -6,8 +6,7 @@
 Hey! Welcome to my GitHub profile! Thanks for visiting.
 I'm currently majoring in computer science and am very interested in learning Web Development.
 
-My last project was the (now defunct) Discord bot called "Frederick", and I'm currently working on a CLI-based password manager (why would you trust other people when you can trust yourself amirite).
-
+My last project was the (now defunct) Discord bot called "Frederick", which I plan on reviving sometime soon.
 Regarding programming, I mostly use JavaScript and I'm very familiar with Python.
 I'd like to learn HTML and CSS to experiment with and make websites of my own.
 
