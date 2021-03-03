@@ -12,7 +12,7 @@ Regarding programming, I mostly use JavaScript and I'm very familiar with Python
 I'd like to learn HTML and CSS to experiment with and make websites of my own.
 
 ## Contact me
-If you'd like to contact me for whatever reason, you can do so on my [Discord account](https://discord.com/ "aanthr0#5169") or my [email address](https://mail.google.com/ "anthromadayt@gmail.com") (please mention you're coming from GitHub).
+If you'd like to contact me for whatever reason, you can do so on my Discord account ([hover here](https://discord.com/ "aanthr0#5169")) or my email address ([hover here](https://mail.google.com/ "anthromadayt@gmail.com")) (please mention you're coming from GitHub).
 
 ## Profile statistics
-![aanthr0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanthr0&hide=prs&count_private=true&show_icons=true&title_color=BBAC86&text_color=D55170&icon_color=9EA1A4&bg_color=1C1E26&locale=en)
+![aanthr0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanthr0&hide=prs&count_private=true&show_icons=true&title_color=83ACBB&text_color=D55170&icon_color=9EA1A4&bg_color=1C1E26&locale=en)
