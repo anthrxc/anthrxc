@@ -3,10 +3,16 @@
 # Welcome to my profile!
 
 ## About me
-Professional dumbass, PhD in depression & anxiety. Oh and I find web development interesting and would like to learn it.
+Hey! Welcome to my GitHub profile! Thanks for visiting.
+I'm currently majoring in computer science and am very interested in learning Web Development.
 
-## Known languages
-TypeScript (JavaScript) & Python
+My last project was the (now defunct) Discord bot called "Frederick", and I'm currently working on a CLI-based password manager (why would you trust other people when you can trust yourself amirite).
 
-## Current project
-Open-source CLI password manager
+Regarding programming, I mostly use JavaScript and I'm very familiar with Python.
+I'd like to learn HTML and CSS to experiment with and make websites of my own.
+
+## Contact me
+If you'd like to contact me for whatever reason, you can do so on my [Discord account](https://discord.com/ "aanthr0#5169") or my [email address](https://mail.google.com/ "anthromadayt@gmail.com") (please mention you're coming from GitHub).
+
+## Profile statistics
+![aanthr0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aanthr0&hide=stars,prs,issues&count_private=true&show_icons=true&title_color=BBAC86&text_color=D55170&icon_color=9EA1A4&bg_color=1C1E26&locale=en)
