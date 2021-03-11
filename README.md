@@ -4,7 +4,7 @@
 
 ## About me
 Hey! Welcome to my GitHub profile! Thanks for visiting.
-I'm very interested and am currently experimenting in making my own website (you can check out the progress [here](https://github.com/aanthr0/personal-website "Personal Website")
+I'm very interested and am currently experimenting in making my own website (you can check out the progress [here](https://github.com/aanthr0/personal-website "Personal Website"))
 
 My last project was the (now defunct) Discord bot called "Frederick", which I plan on reviving sometime soon.
 Regarding programming, I mostly use JavaScript and I'm very familiar with Python.
