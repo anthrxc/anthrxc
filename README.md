@@ -14,4 +14,4 @@ I'd like to learn HTML and CSS to experiment with and make websites of my own.
 If you'd like to contact me for whatever reason, you can do so on my Discord account ([hover here](https://discord.com/ "aanthr0#5169")) or my email address ([hover here](https://mail.google.com/ "anthromadayt@gmail.com")) (please mention you're coming from GitHub).
 
 ## Profile statistics
-![aanthr0](https://github-readme-stats.vercel.app/api?username=aanthr0&hide=prs&count_private=true&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=c9d1d9&bg_color=0d1117&locale=en)
+![aanthr0](https://github-readme-stats.vercel.app/api?username=aanthr0&hide=prs&count_private=true&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=6e7681&bg_color=0d1117&locale=en)
