@@ -17,7 +17,7 @@ Do you need a hosting service to run your bot or website on?
 Check out [BlueFox Host](https://bluefoxhost.com/) for cheap hosting with extremely high performance!
 
 ## Contact me
-If you'd like to contact me for whatever reason, you can do so on my Discord account ([hover here](https://discord.com/ "aanthr0#5169")) or my email address ([hover here](https://mail.google.com/ "anthromadayt@gmail.com")) (please mention you're coming from GitHub).
+If you'd like to contact me for whatever reason, you can do so on my Discord account ([hover here](https://discord.com/ "aanthr0#7001")) or my email address ([hover here](https://mail.google.com/ "anthromadayt@gmail.com")) (please mention you're coming from GitHub).
 
 ## Profile statistics
 ![aanthr0](https://github-readme-stats.vercel.app/api?username=aanthr0&hide=prs&count_private=true&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=6e7681&bg_color=0d1117&locale=en)
