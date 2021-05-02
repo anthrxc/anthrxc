@@ -6,7 +6,7 @@
 Hey! Welcome to my GitHub profile! Thanks for visiting.
 
 ## Projects
-Currently, I am working on a template discord.js bot for anyone who'd like to try out bot development to get a nice start.
+Currently, I am working on a package for Discord bots that makes it easy to create an eval command.
 
 My last project was a bot called Sine Wave which played [this](https://www.youtube.com/watch?v=x0-c4l_tcTQ&ab_channel=Ryen) in your voice channel when you mentioned it.
 Sadly, that bot is not up anymore, but if you want, you can find the source code [here](https://github.com/aanthr0/sine-wave) and host it yourself!
