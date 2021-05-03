@@ -4,6 +4,9 @@
 
 ## About me
 Hey! Welcome to my GitHub profile! Thanks for visiting.
+I'm John, and I have no clue what I'm doing.
+In my free time, I like to turn my incredibly dumb ideas into reality with JavaScript.
+I'd like to explore the fields of machine learning and artificial intelligence, and because of [a certain TV show](https://www.imdb.com/title/tt1839578/), my dream is to make [something like this](https://personofinterest.fandom.com/wiki/The_Machine)
 
 ## Projects
 My last project was [eval-bot](https://github.com/aanthr0/eval-bot), a Discord bot with the sole purpose of bringing the eval command with you. It was based on my [template discord.js bot](https://github.com/aanthr0/djs-template), the project before eval-bot.
