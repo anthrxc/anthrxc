@@ -6,11 +6,12 @@
 Hey! Welcome to my GitHub profile! Thanks for visiting.
 
 ## Projects
-Currently, I am working on a package for Discord bots that makes it easy to create an eval command.
+My last project was [eval-bot](https://github.com/aanthr0/eval-bot), a Discord bot with the sole purpose of bringing the eval command with you. It was based on my [template discord.js bot](https://github.com/aanthr0/djs-template), the project before eval-bot.
+The template was designed to be used to make your own Discord bot without the hassle of creating a command handler and cluttering your main bot file with events.
+Before those, I was (and still am) interested in website development, so I decided to make [my own website](https://github.com/aanthr0/personal-website), which I don't keep up anymore because I don't like the look of it. I plan to remake the website, but probably not anytime soon.
+When I finished my website, I decided to make a joke project shortly after. It was another Discord bot called [Sine Wave](https://github.com/aanthr0/sine-wave) which played [this sound](https://www.youtube.com/watch?v=x0-c4l_tcTQ) in your voice channel after you mentioned it.
 
-My last project was a bot called Sine Wave which played [this](https://www.youtube.com/watch?v=x0-c4l_tcTQ&ab_channel=Ryen) in your voice channel when you mentioned it.
-Sadly, that bot is not up anymore, but if you want, you can find the source code [here](https://github.com/aanthr0/sine-wave) and host it yourself!
-Apologies if the code is a bit hard to read, I didn't really feel the need to make the code look nice because it's a single file bot.
+Currently, I'm not working on anything, and I'm trying to find decent project ideas to work on.
 
 ## Hosting solution
 Do you need a hosting service to run your bot or website on?
