@@ -9,12 +9,9 @@ In my free time, I like to turn my incredibly dumb ideas into reality with JavaS
 I'd like to explore the fields of machine learning and artificial intelligence, and because of [a certain TV show](https://www.imdb.com/title/tt1839578/), my dream is to make [something like this](https://personofinterest.fandom.com/wiki/The_Machine).
 
 ## Projects
-My last project was [eval-bot](https://github.com/aanthr0/eval-bot), a Discord bot with the sole purpose of bringing the eval command with you. It was based on my [template discord.js bot](https://github.com/aanthr0/djs-template), the project before eval-bot.
-The template was designed to be used to make your own Discord bot without the hassle of creating a command handler and cluttering your main bot file with events.
-Before those, I was (and still am) interested in website development, so I decided to make [my own website](https://github.com/aanthr0/personal-website), which I don't keep up anymore because I don't like the look of it. I plan to remake the website, but probably not anytime soon.
-When I finished my website, I decided to make a joke project shortly after. It was another Discord bot called [Sine Wave](https://github.com/aanthr0/sine-wave) which played [this sound](https://www.youtube.com/watch?v=x0-c4l_tcTQ) in your voice channel after you mentioned it.
-
-Currently, I'm not working on anything, and I'm trying to find decent project ideas to work on.
+I am currently working on my own personal website, the files of which you can find [here](/aanthr0/personal-website).
+My last project was a template Discord bot, which is still being in the works as there are some missing features.
+Prior to the template, I made a joke Discord bot called [Sine Wave](/aanthr0/sine-wave), which played [this sound](https://www.youtube.com/watch?v=x0-c4l_tcTQ&ab_channel=Ryen) in your voice call when you mentioned it.
 
 ## Hosting solution
 Do you need a hosting service to run your bot or website on?
