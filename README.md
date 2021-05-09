@@ -9,9 +9,9 @@ In my free time, I like to turn my incredibly dumb ideas into reality with JavaS
 I'd like to explore the fields of machine learning and artificial intelligence, and because of [a certain TV show](https://www.imdb.com/title/tt1839578/), my dream is to make [something like this](https://personofinterest.fandom.com/wiki/The_Machine).
 
 ## Projects
-I am currently working on my own personal website, the files of which you can find [here](/aanthr0/personal-website).
+I am currently working on my own personal website, the files of which you can find [here](https://www.github.com/aanthr0/personal-website).
 My last project was a template Discord bot, which is still being in the works as there are some missing features.
-Prior to the template, I made a joke Discord bot called [Sine Wave](/aanthr0/sine-wave), which played [this sound](https://www.youtube.com/watch?v=x0-c4l_tcTQ&ab_channel=Ryen) in your voice call when you mentioned it.
+Prior to the template, I made a joke Discord bot called [Sine Wave](https://www.github.com/aanthr0/sine-wave), which played [this sound](https://www.youtube.com/watch?v=x0-c4l_tcTQ&ab_channel=Ryen) in your voice call when you mentioned it.
 
 ## Hosting solution
 Do you need a hosting service to run your bot or website on?
