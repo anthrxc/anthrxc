@@ -23,5 +23,4 @@ If you'd like to contact me for whatever reason, you can do so on my Discord acc
 
 ## Profile statistics
 ![aanthr0](https://github-readme-stats.vercel.app/api?username=aanthr0&hide=prs&count_private=true&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=6e7681&bg_color=0d1117&border_color=30363d&locale=en)
-
 ![aanthr0](https://github-readme-stats.vercel.app/api/top-langs/?username=aanthr0&title_color=c9d1d9&text_color=c9d1d9&icon_color=6e7681&bg_color=0d1117&border_color=30363d&locale=en)
