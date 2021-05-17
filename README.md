@@ -10,7 +10,7 @@ I'd like to explore the fields of machine learning and artificial intelligence, 
 
 ## Projects
 I am currently working on my own personal website, the files of which you can find [here](https://www.github.com/aanthr0/personal-website).
-I'm also working on another project, called [Shackholder](https://github.com/aanthr0/shackholder), which is a guild manager bot for my upcoming Discord server.
+I'm also working on another project, called [oversight](https://github.com/aanthr0/oversight), which is a guild manager bot for my upcoming Discord server.
 My last project was a template Discord bot, which is still being in the works as there are some missing features.
 Prior to the template, I made a joke Discord bot called [Sine Wave](https://www.github.com/aanthr0/sine-wave), which played [this sound](https://www.youtube.com/watch?v=x0-c4l_tcTQ&ab_channel=Ryen) in your voice call when you mentioned it.
 
