@@ -24,12 +24,6 @@ I'd like to explore the fields of machine learning and artificial intelligence, 
   <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   </p>
 
-## Projects
-I am currently working on my own personal website, the files of which you can find [here](https://www.github.com/aanthr0/personal-website).
-I'm also working on another project, called [oversight](https://github.com/aanthr0/oversight), which is a guild manager bot for my upcoming Discord server.
-My last project was a template Discord bot, which is still being in the works as there are some missing features.
-Prior to the template, I made a joke Discord bot called [Sine Wave](https://www.github.com/aanthr0/sine-wave), which played [this sound](https://www.youtube.com/watch?v=x0-c4l_tcTQ&ab_channel=Ryen) in your voice call when you mentioned it.
-
 ## Hosting solution
 Do you need a hosting service to run your bot or website on?
 Check out [BlueFox Host](https://bluefoxhost.com/) for cheap hosting with extremely high performance!
