@@ -24,10 +24,6 @@ I'd like to explore the fields of machine learning and artificial intelligence, 
   <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   </p>
 
-## Hosting solution
-Do you need a hosting service to run your bot or website on?
-Check out [BlueFox Host](https://bluefoxhost.com/) for cheap hosting with extremely high performance!
-
 ## Contact me
 If you'd like to contact me for whatever reason, you can do so on my Discord account ([hover here](https://discord.com/ "aanthr0#7001")) or my email address ([hover here](https://mail.google.com/ "anthromadayt@gmail.com")) (please mention you're coming from GitHub).
 
