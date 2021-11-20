@@ -4,7 +4,7 @@
 
 ## About me
 Hey! Welcome to my GitHub profile! Thanks for visiting.
-I'm John, and I have no clue what I'm doing.
+I'm Ivan, and I have no clue what I'm doing.
 In my free time, I like to turn my incredibly dumb ideas into reality with JavaScript.
 I'd like to explore the fields of machine learning and artificial intelligence, and because of [a certain TV show](https://www.imdb.com/title/tt1839578/), my dream is to make [something like this](https://personofinterest.fandom.com/wiki/The_Machine).
 
