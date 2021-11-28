@@ -25,7 +25,7 @@ I'd like to explore the fields of machine learning and artificial intelligence, 
   </p>
 
 ## Contact me
-If you'd like to contact me for whatever reason, you can do so on my Discord account ([hover here](https://discord.com/ "aanthr0#7001")) or my email address ([hover here](https://mail.google.com/ "anthromadayt@gmail.com")) (please mention you're coming from GitHub).
+If you'd like to contact me for whatever reason, you can do so on my Discord account ([hover here](https://discord.com/ "aanthr0#7001")); please mention you're coming from GitHub.
 
 ## Profile statistics
 ![aanthr0](https://github-readme-stats.vercel.app/api?username=aanthr0&count_private=true&show_icons=true&title_color=c9d1d9&text_color=c9d1d9&icon_color=6e7681&bg_color=0d1117&border_color=30363d&locale=en)
