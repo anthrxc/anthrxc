@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋, I'm Ivan</h1>
 <h3 align="center">I like to turn my dumb ideas to reality with JavaScript</h3>
 
-- 🔭 I’m currently working on [Lott](https://github.com/anthracc/lott), a Discord prize-pool bot
+- 🔭 I’m currently working on **my next project idea**.
 
 - 🌱 I’m currently learning **C/C++**
 
