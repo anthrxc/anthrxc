@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a discord.js template**.
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning the **C language**
 
 - 💬 Ask me about **anything JavaScript**
 
