@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything JavaScript**
 
-- 📫 Reach out to me at **anthromadayt@gmail.com**
+- 📫 Reach out to me on Discord at **anthrxc#7001** or **Evil FlaringPhoenix#1599**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
