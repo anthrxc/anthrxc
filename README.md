@@ -1,14 +1,6 @@
 <h1 align="center">Hey there👋, I'm Ivan</h1>
 <h3 align="center">I like to turn my dumb ideas to reality with JavaScript</h3>
 
-- 🔭 I’m currently working on **a discord.js template**.
-
-- 🌱 I’m currently learning the **C language**
-
-- 💬 Ask me about **anything JavaScript**
-
-- 📫 Reach out to me on Discord at **anthrxc#7001** or **Evil FlaringPhoenix#1599**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anthrxc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthrac_" height="30" width="40" /></a>
