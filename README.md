@@ -1,6 +1,6 @@
 <h1 align="center">Hey there👋, I'm Ivan</h1>
-<h3 align="center">I like to turn my dumb ideas to reality with JavaScript<</h3>
-<h3 align="center">I also like to watch 20 cars go zoom around a track for 2 hours</h3>
+<h3 align="center">I like to turn my dumb ideas to reality with JavaScript.</h3>
+<h3 align="center">I also like to watch 20 cars go zoom around a track for 2 hours.</h3>
 <h4 align="center">#LH44 🐐</h4>
 
 <h3 align="left">Languages and Tools:</h3>
