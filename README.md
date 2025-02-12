@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Ivan
 
-💻 I'm a **web and server-side developer** specializing in **Node.js**. Passionate about building projects that help people and make an impact.  
+💻 I'm a **web and server-side developer** specializing in **Node.js**.  
+Passionate about building projects that help people and make an impact.  
+
 🏎️ Also a big fan of **Formula 1**!  
 
 ## 🔧 Tech Stack
