@@ -29,4 +29,5 @@ Passionate about building projects that help people and make an impact.
   - 🌍 **Portfolio:** [anthrxc.github.io/portfolio](https://anthrxc.github.io/portfolio/)  
   - 📧 **Email:** anthrxc34@gmail.com  
 
+
 🚀 Always open to new projects and collaborations!
