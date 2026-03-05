@@ -14,12 +14,7 @@ Passionate about building projects that help people and make an impact.
 ## 🚀 Featured Projects
   - **[Passman-CLI](https://github.com/anthrxc/passman-cli)** – A simple local-only CLI password manager built with Node.js.    
   - **[Bela+](https://github.com/anthrxc/belaplus)** – A CLI program to track scores in Belote, built with Node.js.  
-  - **[EuroFinance](https://github.com/anthrxc/eurofinance)** – Pure HTML website for an imaginary bank, made for a school project.  
-
-## 📖 What I'm Learning  
-  - Diving into **Vue.js** for frontend development  
-  - Refining my **web design** skills for better UI/UX  
-  - Building **challenging side projects** to push my limits  
+  - **[EuroFinance](https://github.com/anthrxc/eurofinance)** – Pure HTML website for an imaginary bank, made for a school project.   
 
 ## 📊 GitHub Stats
 ![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthrxc&show_icons=true&theme=dark)  
