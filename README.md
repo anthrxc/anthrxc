@@ -9,7 +9,6 @@
   - **[Bela+](https://github.com/anthrxc/belaplus)** – A CLI program to track scores in Belote, built with Node.js.  
 
 ## 📊 GitHub Stats
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthrxc&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthrxc&layout=compact&theme=dark)  
 
 ## 📬 Let's Connect
