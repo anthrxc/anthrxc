@@ -6,7 +6,7 @@
   - ⚡ **Backend:** Node.js  
 
 ## 🚀 Featured Projects
-  - **[Bela+](https://github.com/anthrxc/belaplus)** – A CLI program to track scores in Belote, built with Node.js.  
+  - **[Bela+](https://github.com/anthrxc/belaplus)** – A python project that combines elemnts from [The Machine](https://personofinterest.fandom.com/wiki/The_Machine) and [Profiler](https://watchdogs.fandom.com/wiki/Profiler)
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthrxc&layout=compact&theme=dark)  
