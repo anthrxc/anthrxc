@@ -1,5 +1,5 @@
 # Hi, I'm Ivan 👋
-I'm a software engineering student, Formula 1 fan, and gymrat with an unhealthy fondness of red wine, whisky and tobacco.  
+I'm a software engineering student, Formula 1 fan and gymrat with an interest in AI/ML and an unhealthy fondness of red wine, whisky and tobacco.  
 
 🏎️ Yes, I have Ferrari-related mental health issues (go Team LH)  
 🐧 Planning to install Arch, eventually™  
