@@ -9,7 +9,7 @@ I'm a software engineering student, Formula 1 fan, and gymrat with an unhealthy 
 - **Languages:** JavaScript, C/C++, Python (unholy combination)
 
 ## 🚀 Featured
-### anthrxc
+### Active
 - **[Profiler Machine](https://github.com/anthrxc/profiler-machine)** – "surveillance" system which combines elements of [The Machine](https://personofinterest.fandom.com/wiki/The_Machine) and [the Profiler](https://watchdogs.fandom.com/wiki/Profiler), without the dystopia
 - **[Portfolio](https://github.com/anthrxc/portfolio)** – pure HTML/CSS personal portfolio website, with plans to redesign coming (to me) soon
 
