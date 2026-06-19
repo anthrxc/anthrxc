@@ -17,8 +17,8 @@ I'm a software engineering student, Formula 1 fan and gymrat with an interest in
 If you'd like to see some of my old projects from when I first started programming, or projects I don't intend to maintain anymore, you can take a look at [my archives](https://github.com/anthrxc-archives).
 
 ## 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=anthrxc&theme=midnight-purple&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthrxc&layout=compact&theme=midnight-purple)
+![Stats](https://github-readme-stats.vercel.app/api?username=anthrxc&show_icons=true&title_color=ad73e1&bg_color=1c2028&text_color=cfcfcf&icon_color=ad73e1&border_color=ad73e1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthrxc&layout=compact&title_color=ad73e1&bg_color=1c2028&text_color=cfcfcf&icon_color=ad73e1&border_color=ad73e1)
 
 ## 📬 Connect
 - 🌍 [anthrxc.is-a.dev](https://anthrxc.is-a.dev/)
