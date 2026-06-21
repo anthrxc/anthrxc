@@ -10,8 +10,9 @@ I'm a software engineering student, Formula 1 fan and gymrat with an interest in
 
 ## 🚀 Featured
 ### Active
-- **[Profiler Machine](https://github.com/anthrxc/profiler-machine)** – "surveillance" system which combines elements of [The Machine](https://personofinterest.fandom.com/wiki/The_Machine) and [the Profiler](https://watchdogs.fandom.com/wiki/Profiler), without the dystopia
-- **[Portfolio](https://github.com/anthrxc/portfolio)** – pure HTML/CSS personal portfolio website, with plans to redesign coming (to me) soon
+- **[Profiler Machine](https://github.com/anthrxc/profiler-machine)** – "surveillance" system which combines elements of [The Machine](https://personofinterest.fandom.com/wiki/The_Machine) and [the Profiler](https://watchdogs.fandom.com/wiki/Profiler), without the dystopia  
+- **[Portfolio](https://github.com/anthrxc/portfolio)** – pure HTML/CSS personal portfolio website, with a redesign coming soon  
+- **[v14-template](https://github.com/anthrxc/v14-template)** - template code for a Discord bot in discord.js v14, complete with a command and event handler, and more  
 
 ### Archives
 If you'd like to see some of my old projects from when I first started programming, or projects I don't intend to maintain anymore, you can take a look at [my archives](https://github.com/anthrxc-archives).
